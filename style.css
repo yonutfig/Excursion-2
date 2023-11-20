@@ -1,0 +1,43 @@
+body { 
+    background-color: black;
+    display: block;
+    margin: 8px;    
+    text-align: center;
+}
+h1 { 
+font-family: Verdana;
+font-weight: normal;
+font-size: 50px;
+color: white;
+text-align: center;
+}
+a{
+    color: aquamarine;
+    font-size: 16px;
+}
+h2{
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+#exc {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+footer {
+    text-align: right;
+    color: gray;
+}
+video {
+    object-fit: contain;
+    overflow-clip-margin: content-box;
+    width: 404px;
+    height: 720px;
+}
+img {
+margin: 12px;
+}
